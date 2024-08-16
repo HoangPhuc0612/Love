@@ -1,0 +1,7 @@
+clone ve 
+-->  git remote -v ( kiem tra dang o origin nao) 
+--> git add  . (add tat ca minh lam vao)
+--> git commit -m "..." ( commit va comment)
+--> git push origin <branch-name>
+
+Neu ai do push len repository --> git pull origin <branch-name> de lam tiep
